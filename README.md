@@ -1,6 +1,6 @@
 # YaderSaenz
 
-I am a front-end–focused web developer working with React, with academic experience in Node.js and Express.js for building web applications.
+I am a front-end focused web developer working with React, with academic experience in Node.js and Express.js for building web applications.
 
 My long-term goal is to become a full-stack developer and transition into roles related to AI training and evaluation, where I can apply both technical and analytical skills. I am committed to continuous learning and building practical experience through projects and professional opportunities.
 
