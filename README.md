@@ -1,9 +1,8 @@
 # YaderSaenz
 
-I am a front-end web developer with experience using React to build modern web applications. I also have academic experience working with Node.js and Express.js.
+I am a web developer with experience building modern applications using React on the front end and academic experience with Node.js, Express.js, and SQL on the back end. I am focused on growing as a full-stack developer, building complete end-to-end solutions while continuously improving my technical skills.
 
-My long-term goal is to become a full-stack developer and grow in the field of AI training and evaluation. I enjoy learning new technologies, solving problems, and improving my skills through projects and real-world experience.
-
+I enjoy learning new technologies, solving real-world problems, and expanding my knowledge of software development and artificial intelligence. I am looking for opportunities where I can contribute, learn from experienced developers, and continue growing professionally.
 
 🧰 Tech Stack
 
