@@ -63,26 +63,7 @@ A full-stack task management application where administrators can create and ass
 
 ---
 
-### 📦 Inventory Management System
 
-A full-stack inventory management application with authentication, user roles, product management, and supplier information.
-
-**Tech:** React • TypeScript • Node.js • Express.js • PostgreSQL
-
----
-
-## 📊 Data & Analytics
-
-I'm also developing my skills in **data analysis**, working with tools such as:
-
-* SQL
-* Excel
-* Tableau
-* Data visualization
-
-I'm interested in combining my software development background with data and automation to build useful solutions.
-
----
 
 ## 🎯 Currently Learning
 
