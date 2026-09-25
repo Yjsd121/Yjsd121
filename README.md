@@ -1,26 +1,97 @@
-# YaderSaenz
+# 👋 Hi, I'm Yader Sáenz
 
-I am a web developer with experience building modern applications using React on the front end and academic experience with Node.js, Express.js, and SQL on the back end. I am focused on growing as a full-stack developer, building complete end-to-end solutions while continuously improving my technical skills.
+### Full-Stack Developer | React • TypeScript • Node.js
 
-I enjoy learning new technologies, solving real-world problems, and expanding my knowledge of software development and artificial intelligence. I am looking for opportunities where I can contribute, learn from experienced developers, and continue growing professionally.
+I'm a developer focused on building modern and scalable web applications. My main experience is with **React and TypeScript** on the frontend, combined with **Node.js, Express.js, REST APIs, and SQL** on the backend.
 
-🧰 Tech Stack
+I'm currently growing as a **Full-Stack Developer**, improving my knowledge of software architecture, databases, APIs, and modern development practices.
+
+I enjoy learning new technologies, solving real-world problems, and turning ideas into functional applications.
+
+---
+
+##  What I'm Working On
+
+*  Building full-stack applications with **React, TypeScript, Node.js and PostgreSQL**
+*  Improving my knowledge of **software architecture and backend development**
+*  Continuously improving my development workflow and best practices
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
 </p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Task Manager
+
+A full-stack task management application where administrators can create and assign tasks, while users can track and update their progress.
+
+**Tech:** React • TypeScript • Node.js • Express.js • PostgreSQL • JWT
+
+---
+
+### 📦 Inventory Management System
+
+A full-stack inventory management application with authentication, user roles, product management, and supplier information.
+
+**Tech:** React • TypeScript • Node.js • Express.js • PostgreSQL
+
+---
+
+## 📊 Data & Analytics
+
+I'm also developing my skills in **data analysis**, working with tools such as:
+
+* SQL
+* Excel
+* Tableau
+* Data visualization
+
+I'm interested in combining my software development background with data and automation to build useful solutions.
+
+---
+
+## 🎯 Currently Learning
+
+**TypeScript** • **PostgreSQL** • **Prisma** • **Software Architecture** • **Data Analysis** • **Artificial Intelligence**
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with other developers.
+
+**Thanks for visiting my profile!** 🚀
