@@ -67,7 +67,7 @@ A full-stack task management application where administrators can create and ass
 
 ## 🎯 Currently Learning
 
-**TypeScript** • **PostgreSQL** • **Prisma** • **Software Architecture** • **Data Analysis** • **Artificial Intelligence**
+**TypeScript** • **PostgreSQL** • **Prisma** • **Software Architecture** • **Data Analysis** •
 
 ---
 
